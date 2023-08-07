@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fragmentExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="winter">Winter</string>
+    <string name="spring">Spring</string>
+    <string name="summer">Summer</string>
+    <string name="autumn">Autumn</string>
+    <string name="title">Which season do you prefer?</string>
+    <string name="choice">Your choice is</string>
+</resources>

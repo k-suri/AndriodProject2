@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">INFO6130Week6</string>
+    <string name="albumnum">Album Number (1-100)</string>
+    <string name="album">Album</string>
+    <string name="userid">User ID</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="posts">Posts</string>
+</resources>

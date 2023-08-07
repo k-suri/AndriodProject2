@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="pressMe">Press Me</string>
+    <string name="displayValue">Display Value</string>
+</resources>

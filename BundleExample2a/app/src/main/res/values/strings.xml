@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BundleExample2a</string>
+    <string name="dataSending">Send Data</string>
+</resources>

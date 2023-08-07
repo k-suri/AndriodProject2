@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My ApplicationMuska</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm">Confirmation Dialog Fragment</string>
+    <string name="choice">Please make a choice</string>
+</resources>

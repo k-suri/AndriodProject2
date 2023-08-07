@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab03</string>
+    <string name="name">Khushi Suri</string>
+    <string name="student_num">1129100</string>
+    <string name="message">Please enter the hour and minute for alarm</string>
+    <string name="channel_name">NotificationChannel</string>
+    <string name="channel_desc">Notification Channel used for alarm</string>
+</resources>

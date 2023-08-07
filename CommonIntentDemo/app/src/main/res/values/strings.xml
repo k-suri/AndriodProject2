@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CommonIntentDemo</string>
+    <string name="setAlarm">Set Alarm</string>
+</resources>
